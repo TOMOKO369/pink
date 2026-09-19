@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">若林朋凛自己紹介サイト</title>
+  <desc id="desc">めんどくさい。忘れる。続かない。だからAIにお願いする。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f9ecf0"/>
+      <stop offset="100%" stop-color="#f1e3e7"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#fff9fa"/>
+      <stop offset="100%" stop-color="#f7eef0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1030" cy="110" r="110" fill="#f0d4d9" opacity="0.55"/>
+  <circle cx="1110" cy="520" r="140" fill="#ead5da" opacity="0.5"/>
+  <rect x="80" y="80" width="1040" height="470" rx="28" fill="url(#panel)" stroke="#e9d3d8" stroke-width="2"/>
+  <text x="120" y="200" fill="#8d5964" font-family="'Noto Sans JP', 'Yu Gothic', sans-serif" font-size="26" letter-spacing="7">TOMORIN WAKABAYASHI</text>
+  <text x="120" y="295" fill="#352d2f" font-family="'Noto Serif JP', 'Yu Mincho', serif" font-size="68" font-weight="500">若林朋凛自己紹介サイト</text>
+  <text x="120" y="385" fill="#5d494d" font-family="'Noto Sans JP', 'Yu Gothic', sans-serif" font-size="32">めんどくさい。忘れる。続かない。</text>
+  <text x="120" y="435" fill="#5d494d" font-family="'Noto Sans JP', 'Yu Gothic', sans-serif" font-size="32">だからAIにお願いする。</text>
+  <rect x="120" y="480" width="220" height="2" fill="#d7b4bf"/>
+  <text x="120" y="530" fill="#8d5964" font-family="'Noto Sans JP', 'Yu Gothic', sans-serif" font-size="22" letter-spacing="2">AI × 仕組み × 育児</text>
+</svg>
